@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+img{
+    width: 100%;
+}
+
+h1{
+    font-family: 'Bangers', cursive;
+    letter-spacing: 2px;
+    text-align: center;
+    color: lightgreen;
+}
