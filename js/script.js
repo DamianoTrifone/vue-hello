@@ -7,7 +7,9 @@ var app = new Vue(
     {
         el: "#root",
         data: {
-            message: "Questo è il mio primo esercizio svolto utilizzando la tecnologia Vue"
+            message: "Questo è il mio primo esercizio svolto utilizzando la tecnologia Vue",
+            
+            immagine: '../vue-hello/vue-black-dashboard-pro.jpg'
         }
     }
 )
